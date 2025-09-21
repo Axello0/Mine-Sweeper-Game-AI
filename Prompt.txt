@@ -1,0 +1,10 @@
+Using cursor for vibe coding to make a mine sweeper game
+
+1."can you make a mine sweeper game in java script"
+# the easy level was already hard so i had to make it easier
+2."make the easy level easier with less columns and rows and mines"
+# it was hard to see the color and wanted to use flags to check the bombs
+3."and make the color of the cube that hasnt been clicked a darker color so you can tell the difference"
+4. "make a flag where you can mark the bomb"
+# i added some rules to make it more intuitive
+5."why isnt the rules showing in the index files"
