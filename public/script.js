@@ -2,8 +2,8 @@ class Minesweeper {
     constructor() {
         this.difficulties = {
             easy: { rows: 6, cols: 6, mines: 4 },
-            medium: { rows: 16, cols: 16, mines: 40 },
-            hard: { rows: 16, cols: 30, mines: 99 }
+            medium: { rows: 8, cols: 8, mines: 10 },
+            hard: { rows: 12, cols: 12, mines: 30 }
         };
         
         this.currentDifficulty = 'easy';
